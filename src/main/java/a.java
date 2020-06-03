@@ -4,4 +4,7 @@ public class a {
 		System.out.println(123);
 		System.out.println(1234214);
 	}
+	public void Test(){
+		System.out.println("dage");
+	}
 }
