@@ -7,4 +7,7 @@ public class a {
 	public void Test(){
 		System.out.println("dage");
 	}
+	public void Test1(){
+		System.out.println("dage");
+	}
 }
